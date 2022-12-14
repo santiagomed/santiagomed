@@ -2,7 +2,7 @@
 
 I am a student at the University of Michigan 〽️ (Go Blue!) where I teach EECS 485 - Web Systems. I am passionate about making a positive impact on the world 🌎 through technological advancements 💻, as well as solving challenging problems and building innovative solutions.
 
-I have experience working with a variety of programming languages and frameworks, including Python, TypeScript, C/C++, C#, Go, React, Node.js, Flask.
+I have experience working with a variety of programming languages and frameworks, including Python, TypeScript, C/C++, C#, Go, React, Node.js, and Flask.
 
 Currently, I am investing most of my time in researching about Blockchain and dApp development, Artificial Intelligence, and their respective applications.
 
@@ -12,6 +12,7 @@ Feel free to reach out if you want to connect or discuss about any mutual intere
 
 - 🎙 How to pronounce my name:
   - san-tee-ah-goh
+- 📧 Reach me at santiagm08@gmail.com
 
 <!--
 **santiagomed/santiagomed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
