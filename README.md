@@ -4,6 +4,8 @@ I am a student at the University of Michigan 〽️ (Go Blue!) where I teach EEC
 
 I have experience working with a variety of programming languages and frameworks, including Python, TypeScript, C/C++, C#, Go, React, Node.js, and Flask.
 
+I also help run VOID Tech, a student organization at the University of Michigan that focuses on develop functional applications that try to solve a problem; by Michigan students, for Michigan students.
+
 Currently, I am investing most of my time in researching 🌱 about Blockchain and dApp development, Artificial Intelligence, and their respective applications.
 
 In my free time, I enjoy playing music, watching movies, and reading about the latest innovations in the tech world.
