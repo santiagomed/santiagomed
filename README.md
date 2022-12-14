@@ -4,7 +4,7 @@ I am a student at the University of Michigan 〽️ (Go Blue!) where I teach EEC
 
 I have experience working with a variety of programming languages and frameworks, including Python, TypeScript, C/C++, C#, Go, React, Node.js, and Flask.
 
-Currently, I am investing most of my time in researching about Blockchain and dApp development, Artificial Intelligence, and their respective applications.
+Currently, I am investing most of my time in researching 🌱 about Blockchain and dApp development, Artificial Intelligence, and their respective applications.
 
 In my free time, I enjoy playing music, watching movies, and reading about the latest innovations in the tech world.
 
