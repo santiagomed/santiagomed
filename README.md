@@ -6,7 +6,7 @@ I have experience working with a variety of programming languages and frameworks
 
 I also help run [VOID Tech](https://www.voidtechmichigan.org), a student organization at the University of Michigan that focuses on developing functional applications that try to solve problems at the university; by Michigan students, for Michigan students.
 
-Currently, I am investing most of my time in researching 🌱 about Blockchain and dApp development, Artificial Intelligence, and their respective applications.
+Currently, I am investing most of my time in researching 🌱 about decentralized distributed systems, artificial intelligence, and their respective applications.
 
 In my free time, I enjoy playing music, watching movies, and reading about the latest innovations in the tech world.
 
