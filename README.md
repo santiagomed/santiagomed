@@ -1,4 +1,4 @@
-### Hola! Soy Santiago👋
+### Hola! I'm Santiago👋
 
 I am a student at the University of Michigan 〽️ (Go Blue!) where I teach EECS 485 - Web Systems. I am passionate about making a positive impact on the world 🌎 through technological advancements 💻, as well as solving challenging problems and building innovative solutions.
 
