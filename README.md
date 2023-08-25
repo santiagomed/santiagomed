@@ -10,8 +10,6 @@ In my free time, I enjoy boxing, playing instruments, watching movies, and readi
 
 Feel free to reach out if you want to connect or discuss about any mutual interests we may have! 🤝
 
-- 🎙 How to pronounce my name:
-  - san-tee-ah-goh
 - 📧 Reach me at santiagm08@gmail.com
 
 <!--
