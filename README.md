@@ -6,7 +6,7 @@ I have experience working with a variety of programming languages and frameworks
 
 Currently, I am investing most of my time in researching 🌱 about decentralized distributed systems, artificial intelligence, and their respective applications.
 
-In my free time, I enjoy playing music, boxing, watching movies, and reading about the latest innovations in the tech world.
+In my free time, I enjoy boxing, playing instruments, watching movies, and reading about the latest innovations in the tech world.
 
 Feel free to reach out if you want to connect or discuss about any mutual interests we may have! 🤝
 
