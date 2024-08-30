@@ -10,7 +10,7 @@ In my free time, I enjoy boxing, playing instruments, watching movies, and readi
 
 Feel free to reach out if you want to connect or discuss any mutual interests we may have!
 
-- 📧 Reach me at [santiago@scrippt.tech](mailto:santiago@scrippt.tech)
+- 📧 Reach me at [santiagm08@gmail.com](mailto:santiagm@gmail.com)
 
 <img src="https://myreadme.vercel.app/api/embed/santiagomed?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <!--
