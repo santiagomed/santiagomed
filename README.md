@@ -1,6 +1,6 @@
 ### Hi! I'm Santiago👋
 
-I am currently a Software Engineer at Microsoft. I am passionate about making a positive impact on the world through technological advancements, as well as solving challenging problems and building innovative solutions.
+I am currently a Software Engineer at X. I am passionate about making a positive impact on the world through technological advancements, as well as solving challenging problems and building innovative solutions.
 
 I have experience working with a variety of programming languages and frameworks, including Python, TypeScript, C/C++, C#, Rust, Go, React, Node.js, and Flask.
 
